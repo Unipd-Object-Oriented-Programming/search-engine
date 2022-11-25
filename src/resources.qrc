@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>assets/icon.svg</file>
+    <file>assets/stylesheet.qss</file>
+    <file>assets/icons/new.svg</file>
+    <file>assets/icons/open.svg</file>
+    <file>assets/icons/save.svg</file>
+    <file>assets/icons/save_as.svg</file>
+    <file>assets/icons/close.svg</file>
+    <file>assets/icons/search.svg</file>
+    <file>assets/icons/list.svg</file>
+    <file>assets/icons/grid.svg</file>
+    <file>assets/icons/hero.svg</file>
+    <file>assets/icons/previous.svg</file>
+    <file>assets/icons/next.svg</file>
+    <file>assets/icons/edit.svg</file>
+    <file>assets/icons/delete.svg</file>
+    <file>assets/icons/new_item.svg</file>
+    <file>assets/images/placeholder.svg</file>
+</qresource>
+</RCC>

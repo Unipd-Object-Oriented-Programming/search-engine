@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="grid.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="256px"
+     inkscape:zoom="2.72601"
+     inkscape:cx="118.67161"
+     inkscape:cy="122.70681"
+     inkscape:window-width="1852"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false"
+     inkscape:guide-bbox="true" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#202020;fill-opacity:0.75;stroke:none;stroke-width:2.07365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.9;stroke-opacity:0.75;paint-order:markers stroke fill"
+       id="rect945"
+       width="16.933332"
+       height="16.933332"
+       x="4.2333331"
+       y="4.2333331"
+       ry="3.1943998"
+       rx="3.1943998" />
+    <rect
+       style="fill:#202020;fill-opacity:0.75;stroke:none;stroke-width:2.07365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.9;stroke-opacity:0.75;paint-order:markers stroke fill"
+       id="rect1297"
+       width="16.933332"
+       height="16.933332"
+       x="46.566666"
+       y="4.2333331"
+       ry="3.1943998"
+       rx="3.1943998" />
+    <rect
+       style="fill:#202020;fill-opacity:0.75;stroke:none;stroke-width:2.07365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.9;stroke-opacity:0.75;paint-order:markers stroke fill"
+       id="rect1299"
+       width="16.933332"
+       height="16.933332"
+       x="25.4"
+       y="4.2333331"
+       ry="3.1943998"
+       rx="3.1943998" />
+    <rect
+       style="fill:#202020;fill-opacity:0.75;stroke:none;stroke-width:2.07365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.9;stroke-opacity:0.75;paint-order:markers stroke fill"
+       id="rect1301"
+       width="16.933332"
+       height="16.933332"
+       x="4.2333331"
+       y="25.4"
+       ry="3.1943998"
+       rx="3.1943998" />
+    <rect
+       style="fill:#202020;fill-opacity:0.75;stroke:none;stroke-width:2.07365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.9;stroke-opacity:0.75;paint-order:markers stroke fill"
+       id="rect1303"
+       width="16.933332"
+       height="16.933332"
+       x="46.566666"
+       y="25.4"
+       ry="3.1943998"
+       rx="3.1943998" />
+    <rect
+       style="fill:#202020;fill-opacity:0.75;stroke:none;stroke-width:2.07365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.9;stroke-opacity:0.75;paint-order:markers stroke fill"
+       id="rect1305"
+       width="16.933332"
+       height="16.933332"
+       x="25.4"
+       y="25.4"
+       ry="3.1943998"
+       rx="3.1943998" />
+    <rect
+       style="fill:#202020;fill-opacity:0.75;stroke:none;stroke-width:2.07365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.9;stroke-opacity:0.75;paint-order:markers stroke fill"
+       id="rect1307"
+       width="16.933332"
+       height="16.933332"
+       x="4.2333331"
+       y="46.566666"
+       ry="3.1943998"
+       rx="3.1943998" />
+    <rect
+       style="fill:#202020;fill-opacity:0.75;stroke:none;stroke-width:2.07365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.9;stroke-opacity:0.75;paint-order:markers stroke fill"
+       id="rect1309"
+       width="16.933332"
+       height="16.933332"
+       x="46.566666"
+       y="46.566666"
+       ry="3.1943998"
+       rx="3.1943998" />
+    <rect
+       style="fill:#202020;fill-opacity:0.75;stroke:none;stroke-width:2.07365;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4.9;stroke-opacity:0.75;paint-order:markers stroke fill"
+       id="rect1311"
+       width="16.933332"
+       height="16.933332"
+       x="25.4"
+       y="46.566666"
+       ry="3.1943998"
+       rx="3.1943998" />
+  </g>
+</svg>

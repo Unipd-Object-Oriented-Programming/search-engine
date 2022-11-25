@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="edit.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="256px"
+     inkscape:zoom="0.59485269"
+     inkscape:cx="89.938233"
+     inkscape:cy="106.74912"
+     inkscape:window-width="1852"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9513" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g9513"
+       transform="matrix(3.0787879,0,0,3.0787879,-12.315152,-12.315152)">
+      <path
+         d="M 10.533089,24.681834 4.0000001,26 5.3181661,19.465994 Z M 11.829248,23.385664 22.12158,13.096085 16.905751,7.8784221 6.6143361,18.169835 Z M 20.783254,4.0000001 18.201919,6.5822521 23.418667,11.798998 26,9.2149121 Z"
+         id="path10710"
+         style="fill:#202020;fill-opacity:0.75;stroke-width:0.916665" />
+    </g>
+  </g>
+</svg>

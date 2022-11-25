@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="new.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="256px"
+     inkscape:zoom="0.96379008"
+     inkscape:cx="-112.57638"
+     inkscape:cy="178.98088"
+     inkscape:window-width="1852"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g891" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:label="Ebene 1"
+       id="layer1-7"
+       transform="translate(-102.06937,-25.464443)">
+      <g
+         id="g891"
+         transform="matrix(12.02603,0,0,12.02603,-1637.8669,-759.21571)">
+        <path
+           id="path884"
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#202020;stroke-width:0.2;stroke-linejoin:round;stroke-miterlimit:4.9;stroke-dasharray:none;stroke-dashoffset:1.70079;stroke-opacity:0.75;stop-color:#000000"
+           d="m 149.10584,66.184186 -0.86272,-0.794232 m -0.0307,-0.03063 -0.0109,-0.01085 h -3.13624 v 5.432227 h 4.00854 v -4.570264 h -0.86144 z" />
+        <circle
+           style="fill:#202020;fill-opacity:0.75;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:4.9;stroke-dashoffset:1.70079;stroke-opacity:0.75;stop-color:#000000"
+           id="path876"
+           cx="149.07146"
+           cy="67.613968"
+           r="1.0771754" />
+        <path
+           id="rect864"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-miterlimit:4.9;stroke-dashoffset:1.70079;stop-color:#000000"
+           d="m 148.92108,66.863112 v 0.600997 h -0.60048 v 0.30024 h 0.60048 v 0.60048 h 0.30024 v -0.60048 h 0.601 v -0.30024 h -0.601 v -0.600997 z" />
+      </g>
+    </g>
+  </g>
+</svg>

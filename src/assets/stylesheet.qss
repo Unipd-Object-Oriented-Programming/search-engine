@@ -1,0 +1,132 @@
+* {
+    font-family: "Helvetica", "Calibri", "Impact Condensed", "monospace";
+}
+
+#list-item-web-page,
+#list-item-simple,
+#list-item-virtual,
+#list-item-bundle {
+    background-color: #EEE;
+    border: 1px solid #CCC;
+    border-right: 2px solid #999;
+    border-bottom: 2px solid #999;
+    border-radius: 10%;
+}
+
+#list-item-web-page:hover,
+#list-item-simple:hover,
+#list-item-virtual:hover,
+#list-item-bundle:hover,
+#card-web-page:hover {
+    background-color: #CCC;
+    border: 1px solid #333;
+    border-right: 2px solid #333;
+    border-bottom: 2px solid #333;
+    border-radius: 0%;
+}
+
+#card-web-page,
+#card-simple,
+#card-virtual,
+#card-bundle {
+    background-color: #EEE;
+    border: 1px solid #CCC;
+    border-right: 2px solid #999;
+    border-bottom: 2px solid #999;
+    border-radius: 20%;
+}
+
+#card-web-page:hover,
+#card-simple:hover,
+#card-virtual:hover,
+#card-bundle:hover {
+    background-color: #CCC;
+    border: 1px solid #333;
+    border-right: 2px solid #333;
+    border-bottom: 2px solid #333;
+    border-radius: 20%;
+}
+
+#teaser-web-page,
+#teaser-simple,
+#teaser-virtual,
+#teaser-bundle {
+    background-color: #EEE;
+    border: 1px solid #CCC;
+    border-right: 3px solid #999;
+    border-bottom: 3px solid #999;
+    border-radius: 20%;
+}
+
+#teaser-web-page:hover,
+#teaser-simple:hover,
+#teaser-virtual:hover,
+#teaser-bundle:hover {
+    background-color: #CCC;
+    border: 1px solid #333;
+    border-right: 3px solid #333;
+    border-bottom: 3px solid #333;
+}
+
+#name {
+    font-weight: bold;
+}
+
+#teaser-web-page #name,
+#teaser-simple #name,
+#teaser-virtual #name,
+#teaser-bundle #name {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#full-web-page #name,
+#full-simple #name,
+#full-virtual #name,
+#full-bundle #name {
+    width: 100%;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+#full-bundle #list-item-simple #name,
+#full-bundle #list-item-virtual #name {
+    font-size: 24px;
+}
+
+#sku,
+#count {
+    color: #444;
+}
+
+#availability {
+    font-style: italic;
+}
+
+#view-button,
+#edit-button {
+    background-color: #CCC;
+}
+
+#view-button:hover,
+#edit-button:hover {
+    background-color: #999;
+}
+
+#delete-button {
+    background-color: #C33;
+}
+
+#delete-button:hover {
+    background-color: #F66;
+}
+
+#products {
+    font-weight: bold;
+}
+
+View--SearchWidget #title,
+View--EditWidget #title {
+    font-size: 24px;
+    font-weight: bold;
+}
