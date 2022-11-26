@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+SearchEngine
+Makefile
+.qmake.stash
