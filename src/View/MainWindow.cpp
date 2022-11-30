@@ -33,27 +33,27 @@ MainWindow::MainWindow(Engine::IEngine& engine, QWidget *parent)
         QIcon(QPixmap((":/assets/icons/new.svg"))),
         "New"
     );
-    create->setShortcut(QKeySequence(Qt::CTRL + Qt::Key_N));
+    create->setShortcut(QKeySequence(Qt::CTRL | Qt::Key_N));
     QAction* open = new QAction(
         QIcon(QPixmap((":/assets/icons/open.svg"))),
         "Open"
     );
-    open->setShortcut(QKeySequence(Qt::CTRL + Qt::Key_O));
+    open->setShortcut(QKeySequence(Qt::CTRL | Qt::Key_O));
     QAction* save = new QAction(
         QIcon(QPixmap((":/assets/icons/save.svg"))),
         "Save"
     );
-    save->setShortcut(QKeySequence(Qt::CTRL + Qt::Key_S));
+    save->setShortcut(QKeySequence(Qt::CTRL | Qt::Key_S));
     QAction* save_as = new QAction(
         QIcon(QPixmap((":/assets/icons/save_as.svg"))),
         "Save As"
     );
-    save_as->setShortcut(QKeySequence(Qt::CTRL + Qt::SHIFT + Qt::Key_S));
+    save_as->setShortcut(QKeySequence(Qt::CTRL | Qt::SHIFT | Qt::Key_S));
     QAction* close = new QAction(
         QIcon(QPixmap((":/assets/icons/close.svg"))),
         "Close"
     );
-    close->setShortcut(QKeySequence(Qt::CTRL + Qt::Key_Q));
+    close->setShortcut(QKeySequence(Qt::CTRL | Qt::Key_Q));
     QAction* togge_toolbar = new QAction(
         "Toolbar"
     );
@@ -61,7 +61,7 @@ MainWindow::MainWindow(Engine::IEngine& engine, QWidget *parent)
         QIcon(QPixmap((":/assets/icons/new_item.svg"))),
         "New Item"
     );
-    create_item->setShortcut(QKeySequence(Qt::CTRL + Qt::SHIFT + Qt::Key_N));
+    create_item->setShortcut(QKeySequence(Qt::CTRL | Qt::SHIFT | Qt::Key_N));
     create_item->setEnabled(false);
 
     // Sets menu bar
