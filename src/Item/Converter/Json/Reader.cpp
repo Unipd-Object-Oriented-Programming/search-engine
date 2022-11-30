@@ -94,7 +94,7 @@ AbstractItem* Reader::readBundle(const QJsonObject& object) {
         object.value("sku").toString().toStdString()
     );
     QJsonArray json_products = object.value("products").toArray();
-    foreach (const QJsonValue& value, json_products) {
+    for (const QJsonValue& value: json_products) {
         QJsonObject json_object = value.toObject();
         AbstractItem* item = read(json_object);
         AbstractProduct* product = dynamic_cast<AbstractProduct*>(item);

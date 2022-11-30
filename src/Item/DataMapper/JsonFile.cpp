@@ -63,7 +63,7 @@ std::vector<AbstractItem*> JsonFile::load() {
     QJsonDocument document = QJsonDocument::fromJson(data);
     QJsonArray json_items = document.array();
 
-    foreach (const QJsonValue& value, json_items) {
+    for (const QJsonValue& value: json_items) {
         QJsonObject json_object = value.toObject();
         items.push_back(converter.toObject(json_object));
     }
