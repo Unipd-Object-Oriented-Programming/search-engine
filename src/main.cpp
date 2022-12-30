@@ -6,7 +6,7 @@
 #include "View/MainWindow.h"
 
 int main(int argc, char *argv[]) {
-    Service::Logger::Facade logger_facade("/home/marco/Scrivania/search-engine.log");
+    Service::Logger::Facade logger_facade("./search-engine.log");
 
     QApplication app(argc, argv);
     app.setWindowIcon(QIcon(":assets/icon.svg"));

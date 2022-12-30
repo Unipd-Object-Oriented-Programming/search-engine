@@ -14,15 +14,12 @@ Memory::~Memory() {
 }
 
 Memory& Memory::add(const Item::AbstractItem* item) {
-    items.push_back(item);
+    items.add(item);
     return *this;
 }
 
 Memory& Memory::remove(const Item::AbstractItem* item) {
-    std::vector<const Item::AbstractItem*>::iterator position = std::find(items.begin(), items.end(), item);
-    if (position != items.end()) {
-        items.erase(position);
-    }
+    items.remove(item);
     return *this;
 }
 
@@ -36,16 +33,15 @@ ResultSet Memory::search(const Query& query) const {
     FilterVisitor filter_visitor(query);
     std::vector<ItemDecorator> results;
 
-    // Computes and sorts results
     for (
-        std::vector<const Item::AbstractItem*>::const_iterator it = items.begin();
-        it != items.end();
-        it++
+        Service::Container<const Item::AbstractItem*>::Node* node = items.getHead();
+        node != nullptr;
+        node = node->getNext()
     ) {
-        (*it)->accept(score_visitor);
-        (*it)->accept(filter_visitor);
+        node->getData()->accept(score_visitor);
+        node->getData()->accept(filter_visitor);
         if (filter_visitor.hasMatch() && score_visitor.getScore() > 0.0) {
-            results.push_back(ItemDecorator(*it, score_visitor.getScore()));
+            results.push_back(ItemDecorator(node->getData(), score_visitor.getScore()));
         }
     }
     std::sort(results.begin(), results.end());

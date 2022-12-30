@@ -9,6 +9,7 @@ HEADERS += \
     Service/Logger/Composite.h \
     Service/Logger/Singleton.h \
     Service/Logger/Facade.h \
+    Service/Container.h \
     \
     Service/StringFilter.h \
     \

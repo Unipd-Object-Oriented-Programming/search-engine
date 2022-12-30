@@ -3,8 +3,7 @@
 
 #include "IEngine.h"
 
-#include <vector>
-
+#include "../Service/Container.h"
 #include "../Item/AbstractItem.h"
 #include "Query.h"
 #include "ResultSet.h"
@@ -13,7 +12,7 @@ namespace Engine {
 
 class Memory: public IEngine {
   private:
-    std::vector<const Item::AbstractItem *> items;
+    Service::Container<const Item::AbstractItem*> items;
 
   public:
     Memory();
